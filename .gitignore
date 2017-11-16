@@ -1,0 +1,6 @@
+.build/
+*.sw*
+.DS_Store
+App-adler32-*/
+App-adler32-*.tar.gz
+
