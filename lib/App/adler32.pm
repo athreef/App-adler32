@@ -12,7 +12,7 @@ use Getopt::Long::Descriptive;
 
 
 use utf8;
-use Digest::Adler32 qw(adler32);
+use Digest::Adler32;
 
 =pod
 
